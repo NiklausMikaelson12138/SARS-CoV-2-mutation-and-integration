@@ -13,3 +13,6 @@ A web application to find mutation in SARS-CoV-2 genome and integrate the applic
 7.networkD3  
 8.vcfR  
 9.ggplot2  
+
+# Usage
+Download this repository and open ui.R and server.R in Rstudio. And then just run it.
