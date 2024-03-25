@@ -1,0 +1,36 @@
+Superkingdom,Phylum,Class,Order,Family,Genus,Species,abundance
+Bacteria,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,0.0717
+Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus agalactiae,0.063
+Bacteria,Fusobacteriota,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium necrophorum,0.1581
+Bacteria,Mycoplasmatota,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma sphenisci,0.0078
+Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia cepacia,0.5175
+Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,0.0945
+Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella Pneumoniae,0.1552
+Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter baumannii,0.1818
+Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Moraxella,Moraxella catarrhailis,0.1165
+Bacteria,Pseudomonadota,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,Haemophilus influenzae,0.0473
+Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomanodales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,0.4375
+Eukaryota,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Aspergillus,Aspergillus fumigatus,0.2195
+Eukaryota,Ascomycota,Eurotiomycetes,Onygenales,Ajellomycetaceae,Histoplasma,Histoplasma capsulatum,0.0026
+Eukaryota,Ascomycota,Pneumocystomycetes,Pneumocystales,Pneumocystaceae,Pneumocystis,Pneumocystis carinii,0.0026
+Eukaryota,Ascomycota,Pneumocystomycetes,Pneumocystales,Pneumocystaceae,Pneumocystis,Pneumocystis jirovecii,0.0026
+Eukaryota,Ascomycota,Saccharomycetes,Saccharomycetales,Metschnikowiaceae,Candida,Candida auris,0.0001
+Eukaryota,Basidiomycota,Tremellomycetes,Tremellales,Cryptococcaceae,Cryptococcus,Cryptococcus neoformans,0.0031
+Eukaryota,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Trichosporon,Trichosporon asahii,0.0128
+Eukaryota,Mucoromycota,Glomeromycetes,Glomerales,Glomeraceae,Rhizophagus,Rhizophagus irregularis,0.0037
+Viruses,Peploviricota,Herviviricetes,Herpesvirales,Herpesviridae,Simplexvirus,Human alphaherpesvirus 1,0.0838
+Viruses,Kitrinoviricota,Flasuviricetes,Amarillovirales,Flaviviridae,Hepacivirus,Hepatitis C virus,0.0737
+Viruses,Negarnaviricota,Insthoviricetes,Articulavirales,Orthomyxoviridae,Alphainfluenzavirus,Influenza A virus,0.0242
+Viruses,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,unclassified Picornaviridae,Picornavirus,0.0184
+Viruses,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,Human adenovirus,0.0108
+Viruses,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Enterovirus,Enterovirus A,0.0048
+Viruses,Nucleocytoviricota,Pokkesviricetes,Chitovirales,Poxviridae,Orthopoxvirus,Monkeypox virus,0.0046
+Viruses,Cossaviricota,Quintoviricetes,Piccovirales,Parvoviridae,Bocaparvovirus,Human bocavirus,0.0016
+Viruses,Artverviricota,Revtraviricetes,Blubervirales,Hepadnaviridae,Orthohepadnavirus,Hepatitis B virus,0.0014
+Viruses,Kitrinoviricota,Alsuviricetes,Martellivirales,Togaviridae,Alphavirus,Chikungunya virus,0.0011
+Viruses,Peploviricota,Herviviricetes,Herpesvirales,Herpesviridae,Lymphocryptovirus,Human herpesvirus 4,0.0001
+Viruses,Kitrinoviricota,Flasuviricetes,Amarillovirales,Flaviviridae,Orthoflavivirus,Zika virus,0.0001
+Viruses,Peploviricota,Herviviricetes,Herpesvirales,Herpesviridae,Varicellovirus,Human herpesvirus 3,0.0001
+Viruses,Kitrinoviricota,Flasuviricetes,Amarillovirales,Flaviviridae,Flavivirus,Dengue virus,0.0001
+Viruses,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Enterovirus,Rhinovirus,0.0001
+Viruses,Pisuviricota,Pisonviricetes,Picornavirales,Caliciviridae,Norovirus,Norwalk virus,0.0001

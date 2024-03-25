@@ -1,0 +1,12 @@
+Superkingdom,Phylum,Class,Order,Family,Genus,Species,abundance
+Bacteria,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,0.0717
+Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus agalactiae,0.063
+Bacteria,Fusobacteriota,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium necrophorum,0.1581
+Bacteria,Mycoplasmatota,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma sphenisci,0.0078
+Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia cepacia,0.5175
+Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,0.0945
+Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella Pneumoniae,0.1552
+Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter baumannii,0.1818
+Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Moraxella,Moraxella catarrhailis,0.1165
+Bacteria,Pseudomonadota,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,Haemophilus influenzae,0.0473
+Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomanodales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,0.4375

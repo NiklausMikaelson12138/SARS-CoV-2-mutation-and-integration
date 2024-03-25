@@ -1,0 +1,17 @@
+Superkingdom,Phylum,Class,Order,Family,Genus,Species,abundance
+Viruses,Peploviricota,Herviviricetes,Herpesvirales,Herpesviridae,Simplexvirus,Human alphaherpesvirus 1,0.0838
+Viruses,Kitrinoviricota,Flasuviricetes,Amarillovirales,Flaviviridae,Hepacivirus,Hepatitis C virus,0.0737
+Viruses,Negarnaviricota,Insthoviricetes,Articulavirales,Orthomyxoviridae,Alphainfluenzavirus,Influenza A virus,0.0242
+Viruses,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,unclassified Picornaviridae,Picornavirus,0.0184
+Viruses,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,Human adenovirus,0.0108
+Viruses,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Enterovirus,Enterovirus A,0.0048
+Viruses,Nucleocytoviricota,Pokkesviricetes,Chitovirales,Poxviridae,Orthopoxvirus,Monkeypox virus,0.0046
+Viruses,Cossaviricota,Quintoviricetes,Piccovirales,Parvoviridae,Bocaparvovirus,Human bocavirus,0.0016
+Viruses,Artverviricota,Revtraviricetes,Blubervirales,Hepadnaviridae,Orthohepadnavirus,Hepatitis B virus,0.0014
+Viruses,Kitrinoviricota,Alsuviricetes,Martellivirales,Togaviridae,Alphavirus,Chikungunya virus,0.0011
+Viruses,Peploviricota,Herviviricetes,Herpesvirales,Herpesviridae,Lymphocryptovirus,Human herpesvirus 4,0.0001
+Viruses,Kitrinoviricota,Flasuviricetes,Amarillovirales,Flaviviridae,Orthoflavivirus,Zika virus,0.0001
+Viruses,Peploviricota,Herviviricetes,Herpesvirales,Herpesviridae,Varicellovirus,Human herpesvirus 3,0.0001
+Viruses,Kitrinoviricota,Flasuviricetes,Amarillovirales,Flaviviridae,Flavivirus,Dengue virus,0.0001
+Viruses,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Enterovirus,Rhinovirus,0.0001
+Viruses,Pisuviricota,Pisonviricetes,Picornavirales,Caliciviridae,Norovirus,Norwalk virus,0.0001

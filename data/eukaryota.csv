@@ -1,0 +1,9 @@
+Superkingdom,Phylum,Class,Order,Family,Genus,Species,abundance
+Eukaryota,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Aspergillus,Aspergillus fumigatus,0.2195
+Eukaryota,Ascomycota,Eurotiomycetes,Onygenales,Ajellomycetaceae,Histoplasma,Histoplasma capsulatum,0.0026
+Eukaryota,Ascomycota,Pneumocystomycetes,Pneumocystales,Pneumocystaceae,Pneumocystis,Pneumocystis carinii,0.0026
+Eukaryota,Ascomycota,Pneumocystomycetes,Pneumocystales,Pneumocystaceae,Pneumocystis,Pneumocystis jirovecii,0.0026
+Eukaryota,Ascomycota,Saccharomycetes,Saccharomycetales,Metschnikowiaceae,Candida,Candida auris,0.0001
+Eukaryota,Basidiomycota,Tremellomycetes,Tremellales,Cryptococcaceae,Cryptococcus,Cryptococcus neoformans,0.0031
+Eukaryota,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Trichosporon,Trichosporon asahii,0.0128
+Eukaryota,Mucoromycota,Glomeromycetes,Glomerales,Glomeraceae,Rhizophagus,Rhizophagus irregularis,0.0037
